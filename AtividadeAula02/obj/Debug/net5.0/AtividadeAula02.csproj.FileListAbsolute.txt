@@ -1,0 +1,16 @@
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/bin/Debug/net5.0/AtividadeAula02
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/bin/Debug/net5.0/AtividadeAula02.deps.json
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/bin/Debug/net5.0/AtividadeAula02.runtimeconfig.json
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/bin/Debug/net5.0/AtividadeAula02.runtimeconfig.dev.json
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/bin/Debug/net5.0/AtividadeAula02.dll
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/bin/Debug/net5.0/ref/AtividadeAula02.dll
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/bin/Debug/net5.0/AtividadeAula02.pdb
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/obj/Debug/net5.0/AtividadeAula02.csproj.AssemblyReference.cache
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/obj/Debug/net5.0/AtividadeAula02.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/obj/Debug/net5.0/AtividadeAula02.AssemblyInfoInputs.cache
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/obj/Debug/net5.0/AtividadeAula02.AssemblyInfo.cs
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/obj/Debug/net5.0/AtividadeAula02.csproj.CoreCompileInputs.cache
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/obj/Debug/net5.0/AtividadeAula02.dll
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/obj/Debug/net5.0/ref/AtividadeAula02.dll
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/obj/Debug/net5.0/AtividadeAula02.pdb
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeAula02/obj/Debug/net5.0/AtividadeAula02.genruntimeconfig.cache
