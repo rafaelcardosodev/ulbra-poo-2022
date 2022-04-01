@@ -1,0 +1,16 @@
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/bin/Debug/net5.0/AtividadeOO
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/bin/Debug/net5.0/AtividadeOO.deps.json
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/bin/Debug/net5.0/AtividadeOO.runtimeconfig.json
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/bin/Debug/net5.0/AtividadeOO.runtimeconfig.dev.json
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/bin/Debug/net5.0/AtividadeOO.dll
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/bin/Debug/net5.0/ref/AtividadeOO.dll
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/bin/Debug/net5.0/AtividadeOO.pdb
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/obj/Debug/net5.0/AtividadeOO.csproj.AssemblyReference.cache
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/obj/Debug/net5.0/AtividadeOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/obj/Debug/net5.0/AtividadeOO.AssemblyInfoInputs.cache
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/obj/Debug/net5.0/AtividadeOO.AssemblyInfo.cs
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/obj/Debug/net5.0/AtividadeOO.csproj.CoreCompileInputs.cache
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/obj/Debug/net5.0/AtividadeOO.dll
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/obj/Debug/net5.0/ref/AtividadeOO.dll
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/obj/Debug/net5.0/AtividadeOO.pdb
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/AtividadeOO/obj/Debug/net5.0/AtividadeOO.genruntimeconfig.cache
