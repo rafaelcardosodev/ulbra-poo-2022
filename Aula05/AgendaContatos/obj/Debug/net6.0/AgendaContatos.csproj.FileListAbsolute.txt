@@ -1,0 +1,5 @@
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/Aula05/AgendaContatos/obj/Debug/net6.0/AgendaContatos.csproj.AssemblyReference.cache
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/Aula05/AgendaContatos/obj/Debug/net6.0/AgendaContatos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/Aula05/AgendaContatos/obj/Debug/net6.0/AgendaContatos.AssemblyInfoInputs.cache
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/Aula05/AgendaContatos/obj/Debug/net6.0/AgendaContatos.AssemblyInfo.cs
+/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/Aula05/AgendaContatos/obj/Debug/net6.0/AgendaContatos.csproj.CoreCompileInputs.cache
