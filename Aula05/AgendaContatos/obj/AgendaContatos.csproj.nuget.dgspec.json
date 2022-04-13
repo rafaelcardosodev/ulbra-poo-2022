@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/Aula05/AgendaContatos/AgendaContatos.csproj": {}
+    "C:\\Users\\rafael.santos\\Desktop\\Ulbra\\2022-1\\programacao_orientada_objetos\\Aula05\\AgendaContatos\\AgendaContatos.csproj": {}
   },
   "projects": {
-    "/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/Aula05/AgendaContatos/AgendaContatos.csproj": {
+    "C:\\Users\\rafael.santos\\Desktop\\Ulbra\\2022-1\\programacao_orientada_objetos\\Aula05\\AgendaContatos\\AgendaContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/Aula05/AgendaContatos/AgendaContatos.csproj",
+        "projectUniqueName": "C:\\Users\\rafael.santos\\Desktop\\Ulbra\\2022-1\\programacao_orientada_objetos\\Aula05\\AgendaContatos\\AgendaContatos.csproj",
         "projectName": "AgendaContatos",
-        "projectPath": "/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/Aula05/AgendaContatos/AgendaContatos.csproj",
-        "packagesPath": "/home/rafael.santos/.nuget/packages/",
-        "outputPath": "/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/Aula05/AgendaContatos/obj/",
+        "projectPath": "C:\\Users\\rafael.santos\\Desktop\\Ulbra\\2022-1\\programacao_orientada_objetos\\Aula05\\AgendaContatos\\AgendaContatos.csproj",
+        "packagesPath": "C:\\Users\\rafael.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.santos\\Desktop\\Ulbra\\2022-1\\programacao_orientada_objetos\\Aula05\\AgendaContatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rafael.santos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rafael.santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
