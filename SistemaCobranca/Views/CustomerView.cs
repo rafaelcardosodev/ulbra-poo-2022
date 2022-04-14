@@ -21,7 +21,7 @@ public static class CustomerView
                               "4 - List customers\n" +
                               "5 - Add billing\n" +
                               "6 - Update billing\n" +
-                              "7 - Remove billing" +
+                              "7 - Remove billing\n" +
                               "0 - EXIT\n" +
                               "=======================");
             opt = Console.ReadLine();

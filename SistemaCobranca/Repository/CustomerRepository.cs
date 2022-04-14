@@ -41,6 +41,10 @@ public class CustomerRepository
         try
         {
             Customer customer = GetById(id);
+            if (customer == null)
+            {
+                return false;
+            }
             customer.Phone = updatedCustomer.Phone;
             customer.Name = updatedCustomer.Name;
             customer.Billings = updatedCustomer.Billings;
@@ -57,7 +61,12 @@ public class CustomerRepository
     {
         try
         {
-            customers.Remove(GetById(id));
+            Customer customer = GetById(id);
+            if (customer == null)
+            {
+                return false;
+            }
+            customers.Remove(customer);
             return true;
         }
         catch (Exception e)
@@ -72,6 +81,10 @@ public class CustomerRepository
         try
         {
             Customer customer = GetById(idCostumer);
+            if (customer == null)
+            {
+                return false;
+            }
             customer.Billings.Add(billing);
             return true;
         }
@@ -86,8 +99,17 @@ public class CustomerRepository
     {
         try
         {
+            if (GetById(idCustomer) == null)
+            {
+                return false;
+            }
             Customer customer = GetById(idCustomer);
-            customer.Billings.Remove(getBillingById(customer, idBilling));
+            Billing billing = getBillingById(customer, idBilling); 
+            if (billing == null)
+            {
+                return false;
+            }
+            customer.Billings.Remove(billing);
             return true;
         }
         catch (Exception e)
@@ -101,6 +123,10 @@ public class CustomerRepository
     {
         try
         {
+            if (GetById(idCustomer) == null)
+            {
+                return false;
+            }
             Customer customer = GetById(idCustomer);
             foreach (var billing in customer.Billings)
             {
