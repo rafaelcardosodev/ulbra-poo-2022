@@ -41,4 +41,14 @@ public class CustomerService
     {
         return customerRepository.SaveBilling(idCustomer, billing);
     }
+
+    public bool RemoveBilling(int idCustomer, int idBilling)
+    {
+        return customerRepository.RemoveBilling(idCustomer, idBilling);
+    }
+
+    public bool UpdateBilling(int idCustomer, Billing updatedBilling)
+    {
+        return customerRepository.UpdateBilling(idCustomer, updatedBilling);
+    }
 }

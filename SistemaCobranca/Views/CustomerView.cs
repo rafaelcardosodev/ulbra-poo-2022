@@ -20,6 +20,8 @@ public static class CustomerView
                               "3 - Remove customer\n" +
                               "4 - List customers\n" +
                               "5 - Add billing\n" +
+                              "6 - Update billing\n" +
+                              "7 - Remove billing" +
                               "0 - EXIT\n" +
                               "=======================");
             opt = Console.ReadLine();
@@ -94,6 +96,35 @@ public static class CustomerView
                     }
                     break;
                 
+                case "6":
+                    Console.Write("Customer ID: ");
+                    id = int.Parse(Console.ReadLine());
+                    Billing updatedBilling = createBillingView();
+                    if (customerService.UpdateBilling(id, updatedBilling))
+                    {
+                        Console.WriteLine("Successfully updated.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Unexpected Error. Please try again...");
+                    }
+                    break;
+                
+                case "7":
+                    Console.Write("Customer ID: ");
+                    id = int.Parse(Console.ReadLine());
+                    Console.Write("Billing ID: ");
+                    int idBilling = int.Parse(Console.ReadLine());
+                    if (customerService.RemoveBilling(id, idBilling))
+                    {
+                        Console.WriteLine("Successfully removed.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Unexpected Error. Please try again...");
+                    }
+                    break;
+                    
                 default:
                     Console.WriteLine("invalido");
                     continue;

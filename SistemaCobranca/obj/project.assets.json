@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rafael.santos\\.nuget\\packages\\": {}
+    "/home/rafael.santos/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafael.santos\\Desktop\\Ulbra\\2022-1\\programacao_orientada_objetos\\SistemaCobranca\\SistemaCobranca.csproj",
+      "projectUniqueName": "/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/SistemaCobranca/SistemaCobranca.csproj",
       "projectName": "SistemaCobranca",
-      "projectPath": "C:\\Users\\rafael.santos\\Desktop\\Ulbra\\2022-1\\programacao_orientada_objetos\\SistemaCobranca\\SistemaCobranca.csproj",
-      "packagesPath": "C:\\Users\\rafael.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafael.santos\\Desktop\\Ulbra\\2022-1\\programacao_orientada_objetos\\SistemaCobranca\\obj\\",
+      "projectPath": "/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/SistemaCobranca/SistemaCobranca.csproj",
+      "packagesPath": "/home/rafael.santos/.nuget/packages/",
+      "outputPath": "/home/rafael.santos/Desktop/Ulbra/2022-1/programacao_orientada_objetos/SistemaCobranca/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rafael.santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/rafael.santos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

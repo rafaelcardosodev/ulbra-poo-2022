@@ -81,4 +81,49 @@ public class CustomerRepository
             throw;
         }
     }
+
+    public bool RemoveBilling(int idCustomer, int idBilling)
+    {
+        try
+        {
+            Customer customer = GetById(idCustomer);
+            customer.Billings.Remove(getBillingById(customer, idBilling));
+            return true;
+        }
+        catch (Exception e)
+        {   
+            Console.WriteLine(e);
+            throw;
+        }
+    }
+    
+    public bool UpdateBilling(int idCustomer, Billing updatedBilling)
+    {
+        try
+        {
+            Customer customer = GetById(idCustomer);
+            foreach (var billing in customer.Billings)
+            {
+                if (billing.Id.Equals(updatedBilling.Id))
+                {
+                    billing.Emission = updatedBilling.Emission;
+                    billing.DueDate = updatedBilling.DueDate;
+                    billing.PaymentDate = updatedBilling.PaymentDate;
+                    billing.TotalPrice = updatedBilling.TotalPrice;
+                }
+            }
+            return true;
+        }
+        catch (Exception e)
+        {   
+            Console.WriteLine(e);
+            throw;
+        }
+    }
+    
+
+    public Billing getBillingById(Customer customer, int idBilling)
+    {
+        return customer.Billings.Find(b => b.Id.Equals(idBilling));
+    }
 }
